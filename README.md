@@ -7,4 +7,4 @@ To understand this concept I will recommend you to clear gradient descent concep
 
 Watch this video to clear concept : https://www.youtube.com/watch?v=sDv4f4s2SB8
 
-Just implement all those equation into python variable and you will get the concept as well. 
+Just implement all those equation into python syntax and you will get the concept as well. 
